@@ -1,0 +1,629 @@
+#header{
+    margin-top: 130px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+}
+#header2{
+    text-align: center;
+    color: aliceblue;
+
+}
+.media-body{
+    width:700px;
+}
+
+#img{
+    margin-left:130px;
+}
+
+#nav{
+    border:0px;
+}
+.media{
+    padding: 40px;
+}
+#button{
+    margin-left: 400px;
+
+}
+#paragraph{
+    background-color: black;
+    padding: 40px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.award{
+    width: 700px;
+    float: left;
+    display: inline-block;
+    border: 1px solid gray;
+    display: flex;
+
+}
+#hr{
+    display: inline-block;
+    float: right;
+    border: 1px solid gray;
+  
+}
+#icon1{
+    margin-left: 25px;
+    margin-top: 14px;
+}
+
+.h3{
+    font-weight: bold;
+    text-align: center;
+}
+.h5{
+    text-align: center;
+    color: gray;
+}
+.p{
+    text-align: center;
+}
+.row{
+    margin-top: 50px;
+
+}
+
+#poetry{
+    width: 500px;
+    margin-top: 30px;
+    display: inline-block;
+}
+#hr1{
+    width: 200px;
+    float: left;
+    display: inline-block;
+    border: 1px solid grey;
+}
+#hr2{
+    width: 200px;
+    float: right;
+    display: inline-block;
+    border: 1px solid grey;
+}
+#hrh3{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 6px;
+    font-weight: bold;
+}
+#ul1{
+    margin-top: 40px;
+}
+
+#hr3{
+    width: 130px;
+    float: left;
+    display: inline-block;
+    border: 1px solid grey;
+}
+
+#hr4{
+    width: 130px;
+    float: right;
+    display: inline-block;
+    border: 1px solid grey;
+}
+
+#hrh31{
+    display: inline-block;
+    margin-left: 13px;
+    margin-top: 5px;
+    font-weight: bold;
+
+}
+
+#poems{
+    float: right;
+    width: 500px;
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+#down1{
+    width: 500px;
+    padding:20px;
+    display: inline-block;
+    margin-left: 230px;
+}
+
+#down2{
+    width: 200px;
+    padding:20px;
+    display: inline-block;
+}
+
+#down3{
+    width: 500px;
+    padding:20px;
+    display: inline-block;
+}
+
+@media screen and (max-width:1565px) {
+
+    #hr{
+        width: 700px;
+
+    }
+    
+}
+
+@media screen and (max-width:1516px) {
+
+    #icon1{
+       
+        margin-left: 8px;
+
+    }
+    
+}
+
+@media screen and (max-width:1499px) {
+
+    .award{
+       
+        width: 600px;
+
+    }
+
+    #hr{
+        width: 650px;
+    }
+
+    #icon1{
+       
+        margin-left: 60px;
+
+    }
+
+    #down1{
+
+    margin-left: 70px;
+    }
+
+    #down2{
+
+        margin-left: 40px;
+        }
+    #down3{
+
+        margin-left: 40px;
+        }
+    
+}
+
+@media screen and (max-width:1442px) {
+    .award{
+       
+        width: 500px;
+
+    }
+
+    #hr{
+        width: 550px;
+    }
+
+    #icon1{
+       
+        margin-left: 130px;
+
+    }
+    #down1{
+
+        margin-left: 40px;
+        }
+    
+        #down2{
+    
+            margin-left: 30px;
+            }
+        #down3{
+    
+            margin-left: 30px;
+            }
+
+
+}
+
+@media screen and (max-width:1325px) {
+    #icon1{
+       
+        margin-left: 90px;
+
+    }
+
+    #down1{
+
+        margin-left: 30px;
+        }
+    
+        #down2{
+    
+            margin-left: 10px;
+            }
+        #down3{
+    
+            margin-left: 5px;
+            }
+
+
+}
+
+@media screen and (max-width:1255px) {
+    #hr{
+        width: 450px;
+    }
+
+    #down1{
+
+        margin-left: 0px;
+        }
+    
+        #down2{
+    
+            margin-left: 0px;
+            }
+        #down3{
+    
+            margin-left: 0px;
+            }
+
+
+}
+
+@media screen and (max-width:1210px) {
+    #down1{
+
+        width: 400px;
+        }
+    
+        #down2{
+    
+            width: 300px;
+            margin-left: 20px;
+            }
+        #down3{
+    
+            width: 400px;
+            }
+
+        #poetry{
+
+            width: 400px;
+        }
+
+        #hr1{
+            width: 150px;
+        }
+
+        #hr2{
+            width: 150px;
+        }
+
+        #poems{
+
+            width: 400px;
+        }
+
+        #hr3{
+            width: 100px;
+        }
+
+        #hr4{
+            width: 100px;
+        }
+        #hrh31{
+            font-size: 20px;
+        }
+
+        #icon1{
+            margin-left: 50px;
+        }
+}
+
+@media screen and (max-width:1130px) {
+    #down1{
+
+        width: 300px;
+        margin-left: 100px;
+        }
+    
+        #down2{
+    
+            width: 200px;
+            margin-left: 20px;
+            }
+        #down3{
+    
+            width: 300px;
+            }
+        
+        #hr{
+            width: 350px;
+        }
+        #icon1{
+            margin-left: 50px;
+        }
+}
+
+@media screen and (max-width:999px) {
+    
+    #icon1{
+        margin-left: 30px;
+    }
+    #cont{
+        width: 350px;
+        margin-left: 70px;
+        
+    
+    }
+    #cont2{
+        width: 350px;
+        margin-left: 20px;
+        margin-left: 70px;
+        
+    }
+    #cont1{
+        width: 350px;
+        
+       
+        
+    }
+    #cont3{
+        width: 350px;
+        
+        margin-left: 20px;
+    }
+
+   
+}
+
+@media screen and (max-width:992px) {
+    
+    #icon1{
+        margin-left: 30px;
+    }
+    #cont{
+        width: 400px;
+        
+        
+        
+    
+    }
+    #cont2{
+        width: 400px;
+        
+        
+        
+    }
+    #cont1{
+        width: 400px;
+       
+        
+       
+        
+    }
+    #cont3{
+        width: 400px;
+        
+        
+    }
+
+    #poetry{
+        width: 600px;
+        margin-left: 150px;
+        display: flex;
+    }
+    #hrh3{
+        margin-left: 100px;
+    }
+
+    #poems{
+        width: 600px;
+        margin-right: 180px;
+        display: flex;
+    }
+    #hrh31{
+        margin-left: 100px;
+    }
+    .award{
+        width: 400px;
+    }
+    #icon1{
+        margin-left: 80px;
+    }
+
+   
+}
+
+@media screen and (max-width:929px) {
+    .award{
+        width: 250px;
+    }
+    #icon1{
+        margin-left: 200px;
+    }
+    #hr{
+        width: 200px;
+    }
+    #down1{
+
+        width: 400px;
+        margin-left: 100px;
+        }
+    
+        #down2{
+    
+            width: 200px;
+            margin-left: 20px;
+            }
+        #down3{
+    
+            width: 400px;
+            margin-left: 100px;
+            }
+
+    #poems{
+        margin-right: 80px;
+    }
+    #img{
+        margin-left: 0px;
+     }
+}
+
+@media screen and (max-width:742px) {
+    .award{
+        width: 150px;
+      
+    }
+    #icon1{
+        margin-left: 190px;
+    }
+    #hr{
+        width: 100px;
+    }
+    #down1{
+
+        width: 400px;
+        margin-left: 100px;
+        }
+    
+        #down2{
+    
+            width: 200px;
+            margin-left: 100px;
+            }
+        #down3{
+    
+            width: 400px;
+            margin-left: 100px;
+            }
+     #poems{
+        margin-right: 50px;
+     }
+     #poetry{
+        margin-left: 20px;
+     }
+
+     #button{
+        margin-left: 190px;
+     }
+     #img{
+        margin-left: 0px;
+     }
+
+     @media screen and (max-width:500px) {
+        #main1{
+            width: 500px;
+            
+        }
+        #img{
+            margin-left: 0px;
+            
+        }
+        #nav1{
+            width: 100%;
+            
+        }
+        #button{
+            margin-left: 100px;
+        }
+        #paragraph{
+            width: 100%;
+            
+        }
+        #icon1{
+            margin-left: 50px;
+        }
+        #img1{
+            display: block;
+            justify-content: center;
+            display: flex;
+        }
+        #icon1{
+            margin-left: 70px;
+        }
+        #poetry{
+            margin-left: 0px;
+        }
+        #poems{
+            margin-right: 10px;
+            display: flex;
+            justify-content: right;
+        }
+       
+        
+    
+
+
+     @media screen and (max-width:700px) {
+        #main1{
+            width: 500px;
+            
+        }
+        #img{
+            margin-left: 0px;
+            
+        }
+        #nav1{
+            width: 100%;
+            
+        }
+        #button{
+            margin-left: 100px;
+        }
+        #paragraph{
+            width: 100%;
+            
+        }
+        #icon1{
+            margin-left: 50px;
+        }
+        #img1{
+            display: block;
+            justify-content: center;
+            display: flex;
+        }
+        #icon1{
+            margin-left: 70px;
+        }
+        #poetry{
+            margin-left: 0px;
+            width: 300px;
+            
+            
+        }
+        #poems{
+            
+            
+            justify-content: left;
+        }
+        #hr{
+            justify-content: right;
+        }
+        #icon1{
+            margin-left: 130px;
+        }
+        .award{
+            display: none;
+        }
+       
+        
+    
+     }
+
+
+
+
+
+
+
+
+    
